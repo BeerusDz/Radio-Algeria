@@ -1,28 +1,17 @@
-# Radio-Algeria
+**Radio Algeria** is Radio streaming Bot. have Currently play 69 stations : 21 local & 48 province stations 
+> To start run command **-play [station]**.
 
-<html> 
-<body>
-  <a href="https://top.gg/bot/793848537371639889">
-    <img src="https://top.gg/api/widget/793848537371639889.svg" alt="Radio Algeria" style=float:right; />
-</a>
-<p><b>-help</b> This command, returns a list of commands</p>
-<p><b>-invite</b> Get invite link</p>
-<p><b>-stations</b>  Get all of stations</p>
-<p><b>-play [station]</b> Tune in to your favorite station</p>
-<p><b>-leave</b> makes the bot leave your voice channel</p>
-<p><b>-join</b> make the bot join the channel</p>
-<p><b>-ping</b> Sound jitter, Check latency</p>
-<p><b>-setprefix [newprefix]</b> manage custom prefixe for your discord bot in your own server </p>
-<p><b>-botinfo</b> Shows you information about the bot, such as server & user count . </p>
-</body>
-</html>
-<html> 
-<body>
-  
-<h2>
-      <font color="#689CFD"><b>- Our Support Server -</b></font>
-    </h2>
+ |command|description|
+|----------------|-------------------------------
+|**-help**|This command, returns a list of commands.
+|**-invite**|Get invite link.
+|**-stations**|Get all of stations.   
+|**-play [station]**|Tune in to your favorite station.
+|**-leave**|makes the bot leave your voice channel
+|**-join**|make the bot join the channel.
+|**-ping**|Sound jitter, Check latency.
+|**-setprefix [newprefix]**|manage custom prefixe for your discord bot in your own server.
+|**-botinfo** |Shows you information about the bot, such as server & user count .
 <p>Join the Support Server to ask questions, hang out with the community!</p>
-<iframe src="https://discord.com/widget?id=803607121702420480&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</body>
-</html>
+<p><a href="https://discord.gg/hpyVK3Wra9">Server support</a></p><p><a href="https://discord.com/api/oauth2/authorize?client_id=793848537371639889&permissions=8&scope=bot">Invite</a></p>
+<h2>
