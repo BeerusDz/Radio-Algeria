@@ -2,7 +2,7 @@
 [![Discord Bots](https://top.gg/api/widget/status/793848537371639889.svg)](https://top.gg/bot/793848537371639889)
 [![Discord Bots](https://top.gg/api/widget/upvotes/793848537371639889.svg)](https://top.gg/bot/793848537371639889)
 [![Discord Bots](https://top.gg/api/widget/owner/793848537371639889.svg)](https://top.gg/bot/793848537371639889)
-[![playing](https://img.shields.io/static/v1?label=lib&message=discord.js&color=black)](https://top.gg/bot/793848537371639889)
+[![playing](https://img.shields.io/static/v1?label=lib&message=discord.js&color=3A3E42)](https://top.gg/bot/793848537371639889)
 
 
 **Radio Algeria** is Radio streaming Bot. have Currently play 69 stations : 21 local & 48 province stations 
