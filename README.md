@@ -1,6 +1,6 @@
-![status](https://img.shields.io/discord/803607121702420480)
+[![Discord Bots](https://top.gg/api/widget/servers/793848537371639889.svg)](https://top.gg/bot/793848537371639889)
 [![Discord Bots](https://top.gg/api/widget/status/793848537371639889.svg)](https://top.gg/bot/793848537371639889)
-
+[![Discord Bots](https://top.gg/api/widget/upvotes/793848537371639889.svg)](https://top.gg/bot/793848537371639889)
 
 **Radio Algeria** is Radio streaming Bot. have Currently play 69 stations : 21 local & 48 province stations 
 > To start run command **-play [station]**.
